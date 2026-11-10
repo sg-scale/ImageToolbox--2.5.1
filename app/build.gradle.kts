@@ -140,7 +140,7 @@ dependencies {
 
     //AndroidX
     implementation("androidx.activity:activity-compose:1.8.2")
-    implementation("androidx.core:core-splashscreen:1.0.1")
+    implementation("androidx.core:core-splashscreen:1.2.0")
     implementation("androidx.exifinterface:exifinterface:1.3.7")
     implementation("androidx.appcompat:appcompat:1.7.0-alpha03")
     implementation("androidx.documentfile:documentfile:1.0.1")
