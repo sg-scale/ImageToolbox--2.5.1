@@ -63,7 +63,7 @@ dependencies {
     implementation(project(":screenshot"))
     implementation(project(":image"))
 
-    implementation(platform("androidx.compose:compose-bom:2023.10.01"))
+    implementation(platform("androidx.compose:compose-bom:2026.09.00"))
     // Jetpack Compose
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling")
