@@ -206,14 +206,14 @@ dependencies {
         exclude("androidx.datastore", "datastore-preferences")
     }
     "marketImplementation"("com.google.firebase:firebase-analytics-ktx:21.5.0")
-    "marketImplementation"("com.google.android.play:review-ktx:2.0.1")
+    "marketImplementation"("com.google.android.play:review-ktx:2.0.2")
 
     "jxlImplementation"("com.google.mlkit:segmentation-selfie:16.0.0-beta4")
     "jxlImplementation"("com.google.firebase:firebase-crashlytics-ktx:18.6.0") {
         exclude("androidx.datastore", "datastore-preferences")
     }
     "jxlImplementation"("com.google.firebase:firebase-analytics-ktx:21.5.0")
-    "jxlImplementation"("com.google.android.play:review-ktx:2.0.1")
+    "jxlImplementation"("com.google.android.play:review-ktx:2.0.2")
     "jxlImplementation"("com.github.awxkee:jxl-coder-coil:1.5.7")
 
     "marketImplementation"("com.google.android.play:app-update:2.1.0")
