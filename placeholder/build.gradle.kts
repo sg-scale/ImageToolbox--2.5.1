@@ -54,7 +54,7 @@ android {
 
 
 dependencies {
-    implementation(platform("androidx.compose:compose-bom:2023.10.01"))
+    implementation(platform("androidx.compose:compose-bom:2026.09.00"))
     implementation("androidx.compose.foundation:foundation")
     implementation("androidx.compose.ui:ui-util")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
